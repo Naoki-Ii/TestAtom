@@ -1,4 +1,6 @@
 <?php
+$comment = '';
 
-echo "Hello World";
+$comment = 'This Is Test';
+echo $comment;
 ?>
